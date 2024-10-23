@@ -12,3 +12,5 @@ Czego się nauczyłem:
 * manipulacja DOM
 * preprocesor SCSS i jego metodologia
 * flexbox
+
+Link do projekty: https://cezary01-bit.github.io/Res-API-Countries/
