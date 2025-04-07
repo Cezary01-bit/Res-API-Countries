@@ -13,4 +13,4 @@ Czego się nauczyłem:
 * preprocesor SCSS i jego metodologia
 * flexbox
 
-Link do projekty: https://cezary01-bit.github.io/Res-API-Countries/
+Link do projektu: https://cezary01-bit.github.io/Res-API-Countries/
